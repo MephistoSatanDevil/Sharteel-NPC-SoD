@@ -1,0 +1,99 @@
+@1=~What do we have here?~
+@2=~I'll be brief. I'm heading up north with the Flaming Fist and I want you at my side.~
+@3=~I take it you are Shar-Teel?~
+@4=~I take it you are Shar-Teel? Why are you in here?~
+@5=~Greetings Shar-Teel. Last time we spoke it seemed the dungeons of the Fist would be the last place I'd find you. What changed?~
+@6 =~Another one of Caelar's peons I see. Tell me, when your lady sent her assassins what was she hoping to accomplish?~
+
+@7=~Ahh <CHARNAME>, if ever there were a male clung to the Fist it would be you. Tell me, did the Fist inform you at all of my whereabouts? I thought not.~ 
+@8=~If Duke Eltan knew of your whereabouts he certainly didn't tell me. What crimes brought you here?~ 
+
+@9=~A quick and painful death. Is that not what an assassin is for?~
+
+@10=~Ahh <CHARNAME>, why am I not surprised to see you cowling before the Fist. Tell me, did the Fist inform you at all of my whereabouts? I thought not.~
+@11= ~If Duke Eltan knew your whereabouts he wasn't about to tell me. What crimes brought you here?~
+
+@12= ~Well, it seems the Fist have finally come to their senses. The look on Eltan's face must have been priceless. A woman sent to correct the mistakes of the men before her.~
+
+@13=~And just who would you be? There are so many boorish men surrounding me these days.~
+
+@14=~Crimes? There were no crimes. These dogs chained me here because I am the daughter of Angelo. Nothing more.~
+@15=~You always seemed the thieving sort. Perhaps that had a part to play in it.~
+@16=~Well you were challenging men to combat. Perhaps you embarrassed the wrong person.~
+
+@17=~Enough of these questions. What do you want with me?~ 
+@18=~I'd like you to join my party~
+@19=~Nothing really. Just wanted to see who you were.~
+@20=~(Whisper) I can't risk talking too long to you about this, but I wish for you to join my group. I'll do what I can to get you released.~
+@21=~I've seen enough here. I'll be going now.~
+
+@22=~I do what needs to be done - something the Fist have never seemed to understand.~
+@23=~That is precisely the reason I'd like you to join my party~
+@24=~I certainly have no taste for the Fist myself. They do seem to trust me however. Perhaps we can work together to undermine their efforts.~
+
+
+
+@25=~I am the daughter of Angelo, one of the cohorts of Sarevok. These pigs have kept me here for weeks without cause. Rest assured, whatever lies the Fist have spread of me are false. This charade has been nothing more than guilt by blood.~
+@26=~Strange as it may sound, I understand. Join my group and you can be free of this place.~
+@27=~I dislike the Fist as much as you. They seem to trust me however. Perhaps we can work together to undermine their efforts.~
+
+
+
+
+@28=~This town is full of princely little twats. I suppose I could have angered one of them.~
+@29=~You waste your life away sitting in this cell. If you can stand the thought of working alongside the Fist come join my party.~
+@30=~I'll be going now.~
+
+@31=~As much as it pains me to think of myself working alongside a moron like you it still beats the smell of this place. Fine, I'll join your little group.~
+
+@32=~I assume you have questions then?~
+@33=~Wait, is that you Shar-Teel? Last time we spoke it seemed the dungeons of the Fist would be the last place I'd find you. What changed?~
+@34=~Hmm, you seem familiar. Have we met before?~
+@35=~What do you know of Caelar?~
+@36=~Nevermind.~
+
+@37=~I really don't know what you are talking about. Do you even know who I am?~
+@38=~You are one of the few prisoners here with their own guard. The Fist would not bother normally with so few resources at hand. What makes you so deserving of this honor?~ 
+@39=~I think a few more days with the Fist might change your attitude.~
+
+@40=~I had hoped the Fist had picked at least an intelligent woman to interogate me. What a disappointment.
+
+I am the daughter of Angelo, one of the cohorts of Sarevok. The Fist have spread nothing but lies about me since the day they chained me here. This charade has been nothing more than guilt by blood and I shall have the head of those responsible.~
+@41=~Strange as it may sound, I understand. Join my group and you can be free of this place.~
+@42=~I dislike the Fist as much as you. They seem to trust me however. Perhaps we can work together to undermine their efforts.~ 
+@43=~Nothing really. Just wanted to see who you were.~
+
+
+
+@44=~Are you the dim-witted guard the Fist had no other use for? I have been stuck in this cell for weeks, fool, and I know nothing of any Caelar.~
+@45=~Then why are you in here?~
+
+@46=~I am here because I am the daughter of Angelo, one of the cohorts of Sarevok. The Fist captured me shortly after their deaths.~
+@47= ~I'm not a member of the Fist. Why did they capture you? What crimes did you commit?~
+@48= ~I don't really care why you are here. I'm heading north with the Fist to defeat Caelar. I could use you at my side.~
+
+
+
+@49=~Crimes? There were no crimes. These *dogs* chained me here because I am the daughter of Angelo.~
+@50=~Perhaps you gave them cause to think you are in some way responsible?~
+@51=~I don't really care why you are here. I'm heading north with the Fist to defeat Caelar. I could use you at my side.~
+
+
+
+@52=~Have the dim-witted Fist forgotten my name already? Why are you here?~
+@53=~Duke Eltan seems to think you know something of other collaborators who assisted Angelo and Sarevok. What do you know of them?~
+@54=~I'm heading north with the Fist to defeat a threat to the city. I could use you at my side.~
+
+
+@55=~As much as it pains me to think of myself working alongside a moron like you it still beats the smell of this place. Fine, I'll join your little group.~
+
+@56=~As for why, I imagine you'd best pester her. I don't know what you are talking about.~
+
+@57=~Frankly, the last fool to interogate me had more wits to him. Surely the Fist can do better.~
+
+@58=~You are one of the few prisoners here with their own guard. The Fist would not bother normally with so few resources at hand. What makes you so deserving of this honor?~
+@59=~I think a few more days with the Fist might change your attitude.~
+
+@60=~You're such a funny man! That's why I'm gonna kill you last.~
+
+@61=~Enough of your questions. How would you like my sword tickling your innards?~
